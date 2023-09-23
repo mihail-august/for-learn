@@ -30,7 +30,7 @@ print(x)
 
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](https://github.com/mihail-august/for-learn/blob/Tema_2/pic/2-1.png)
 
 ## Выводы
 
